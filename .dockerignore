@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Pyrhon
+app/__paycache__/
+app/*/__paycache__/
+app/*/*/__paycache__/
+app/*/*/*/__paycache__/
+.env/
+.venv/
+venv/
+
+
